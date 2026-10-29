@@ -1,0 +1,19 @@
+# Qt Creator build folders
+build/
+build-*/
+debug/
+release/
+
+# Object files
+*.o
+*.obj
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.exe
+*.dll
+
+# IDE files
+*.user
+*.user.*
